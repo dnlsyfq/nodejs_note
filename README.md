@@ -6,6 +6,10 @@ npm -v
 Chocolatey // npm for windows
 ```
 
+```
+npm init -y
+npm start
+```
 
 
 ```
