@@ -3,6 +3,12 @@ node -v
 npm -v
 ```
 ```
+Chocolatey // npm for windows
+```
+
+
+
+```
 npm help
 npm install -h
 ```
